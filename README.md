@@ -1,4 +1,5 @@
 # dova-ladekast-fetcher
+[![Upload Python Package](https://github.com/Provincie-Zuid-Holland/dova-ladekast-fetcher/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Provincie-Zuid-Holland/dova-ladekast-fetcher/actions/workflows/python-publish.yml)
 Simple Python package to talk to DOVA Ladekast API.
 
 # Goal
